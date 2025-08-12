@@ -1,1 +1,1 @@
-{'updateVer':'999', 'displayText':'Download InstaPro V12.85', 'displayType':'link', 'videoLink':'https://sam1431.codeberg.page/wrk/update.mp4', 'other':'https://www.instamod.co/2022/09/version-apk-v12.html'}
+{'updateVer':'999', 'displayText':'Download InstaPro V12.85F', 'displayType':'link', 'videoLink':'https://sam1431.codeberg.page/wrk/update.mp4', 'other':'https://www.instamod.co/2022/09/version-apk-v12.html'}
